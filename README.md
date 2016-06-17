@@ -13,7 +13,7 @@ index.asp-用户登录主界面（已做多参数调用，详细请查看源代�
 
 login.asp-用于接受用户登陆主界面传递参数后取得输入的用户名和密码，并进行认证信息合法性校对。如果校对通过，则授予合法的session并根据来源参数跳转到指定页面！（同上，已加参数调用机制）
 
-parsing.asp-网页离线转发模块，用于解析指定的html外网网页。参数site，即parsing.asp?site=https://www.baidu.com，即显示百度。（已加入认证）
+parsing.asp-网页离线转发模块，用于解析指定的html外网网页。参数site，即parsing.asp?site=https://www.baidu.com 即显示百度。（已加入认证）
 
 privateSoftware.asp-用于私人软件下载区域的认证，由于该区域本人在校内ftp服务器通过web.config进行了防盗链配置，拒绝非法用户随意下载此asp所在目录下的文件！
 
