@@ -1,0 +1,26 @@
+#This is blocked site config file.Powered By Xiaoding Studio
+#Update time:2016/7/26
+
+#blocked site list
+disallow:*.4399.com
+disallow:*.7k7k.com
+disallow:*lol*
+disallow:*download*
+disallow:*game*
+disallow:*youxi*
+disallow:*tencent*
+disallow:*alipay*
+disallow:*tenpay*
+disallow:*qq*
+
+#except site list
+except:*.sxszjzx.com
+except:*.sxschool.com
+except:192.168.*.*
+except:172.*.*.*
+except:10.*.*.*
+except:pc*
+except:teacher*
+except:127.*.*.*
+
+#file end
